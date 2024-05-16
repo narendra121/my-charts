@@ -3,7 +3,7 @@ entries:
   nginx-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-16T17:16:50.732160784+05:30"
+    created: "2024-05-16T17:47:31.460135417+05:30"
     description: Basic nginx chart
     digest: 1f89b281b377061a4296f0ac9e54a7ef6c35938f0771a15d110ee7d958a329fc
     maintainers:
@@ -12,6 +12,6 @@ entries:
     name: nginx-chart
     type: application
     urls:
-    - https://github.com/narendra121/my-charts/nginx-chart-0.1.0.tgz
+    - https://narendra121.github.io/my-charts/nginx-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-16T17:16:50.712855028+05:30"
+generated: "2024-05-16T17:47:31.454119642+05:30"
