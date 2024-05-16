@@ -1,0 +1,20 @@
+image:
+  repoName: nginx
+
+container:
+    name: hello-world
+app:
+  createService: true
+  serviceData:
+    ports:
+      port: 80
+      targetPort: http
+      protocol: TCP
+      name: http
+  deploymentData:
+    replicaCount: 2 
+
+configMapData:
+  regions:
+    - ohio
+    - hyd
