@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 1.16.0
+description: Basic nginx chart
+maintainers:
+- - email: narendra@gmail.com
+  name: john smith
+name: nginx-chart
+type: application
+version: 0.1.0
+
+...
+files:
+  nginx-chart-0.1.0.tgz: sha256:1f89b281b377061a4296f0ac9e54a7ef6c35938f0771a15d110ee7d958a329fc
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJmRew9CRCZcP6Ka89yggAAUdMMAE73TNca04EaTLzaDJVB7lQL
+grvUpyBsZd97q96Sp8nkqxlI0v3qj+Ti3XJYhX244atn1o/QhuJN8niQ+4mJC04t
+weNpX72aVTgJSZns5NQ1I+znJNMC73E+dScwJOXk9rM4sLnYFZvdl9qNmDYH3aVj
+rUBIAm0m/OqwiKxZHHaxt742KavmhGCVbYCPnO7r6fyjhEig76B0utRUhaJGymms
+DwG3cBHSQLs7YmPuFqVRGDwBbTGxbtpaBKwm3c107cz3XRBAG2QEzVl9uTlLZjRe
+yrbp/oZDFmz02uWC0cA22wmPzTQ2B9GWKEYR63iTP9HJO1+a6oe7DFqD0hLeK2QB
+acQAwLlAIk4pjNwKFFJVuJ01Q9g9v0DVLOHP7wY25zbPhKM/hRxqJqeff/+hEwfo
+u0mPuMWkbdJSuhAntGoPTXJWWkUROj/1DeSixei+/8MYERdmQJvX7FXcPObjy/ez
+qp+Nz4hZfa+ZT2PFbF3MGt0Eyi4J1D+LgNU57lvD8Q==
+=8to/
+-----END PGP SIGNATURE-----
